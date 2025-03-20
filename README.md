@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sameerhassanoffical
+- 👋 Hi, I’m Sameer Hassan
 - 👀 I’m interested in Machine Learning / Artifical Inteligence / Python / DevOps
 - 🌱 I’m currently learning DevOps, Tryton, Frappe 
 - 💞️ I’m looking to collaborate on ...
